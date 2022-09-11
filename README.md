@@ -1,3 +1,8 @@
+# Patika.dev Ödev
+[https://www.patika.dev](https://www.patika.dev) ödevi. 
+
+Profil: [https://app.patika.dev/kubrademir](https://app.patika.dev/kubrademir)
+
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
